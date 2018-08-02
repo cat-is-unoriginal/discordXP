@@ -1,4 +1,4 @@
-# discordXP"
+# discordXP
 
 Neat Discord bot for making xp!
 Your pc may go into sleep mode so beware!
